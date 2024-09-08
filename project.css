@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    text-align: center;
+    border-radius: 15px;
+}
+header ,footer{
+    background-color: #343A44;
+    color: #fff;
+    padding: 25px;
+}
+header{
+    margin-bottom: 30px;
+}
+.main-title{
+    background-color: #3E6CE8;
+    color: #fff;
+    width: 300px;
+    padding: 15px 0;
+    margin: 0 auto;
+    width: 30%;
+}
+main section{
+    background-color: #F7F9FB;
+    margin-top: 40px;
+    padding-top: 30px;
+}
+section .card .lesson-title{
+    background-color: #4A4D51;
+    color: #fff;
+    height: 50%;
+    padding-top: 15px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+section .card p{
+    margin: 20px;
+}
+section .card a{
+    text-decoration: none;
+    color: white;
+    background-color: #cf13b9;
+    width: 200px;
+    height: 40px;
+    display: inline-block;
+    padding-top: 8px;
+} 
+article{
+    border: 1px solid #AAACAE;
+    display: inline-block;
+    margin: 20px;
+    width: 20%;
+    height: 250px;
+}
